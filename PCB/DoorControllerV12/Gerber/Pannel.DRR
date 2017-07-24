@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Pannel.PcbDoc   4/16/2014  11:09:04 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Pannel.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          116              648.71 mm (25.54 Inch)
+T2        0.5mm (19.685mil)        Round          4                170.71 mm (6.72 Inch)
+T3        0.7112mm (28mil)         Round          12               158.95 mm (6.26 Inch)
+T4        0.762mm (30mil)          Round          24               457.71 mm (18.02 Inch)
+T5        0.85mm (33.465mil)       Round          12               225.40 mm (8.87 Inch)
+T6        0.9mm (35.433mil)        Round          24               207.76 mm (8.18 Inch)
+T7        1mm (39.37mil)           Round          72               446.60 mm (17.58 Inch)
+T8        1.1mm (43.307mil)        Round          68               495.24 mm (19.50 Inch)
+T9        1.2mm (47.244mil)        Round          40               585.71 mm (23.06 Inch)
+T10       3.45mm (135.827mil)      Round          24               414.24 mm (16.31 Inch)
+T11       4mm (157.48mil)          Round          24        NPTH   605.35 mm (23.83 Inch)
+T12       5mm (196.85mil)          Round          4         NPTH   150.00 mm (5.91 Inch)
+---------------------------------------------------------------------------
+Totals                                            424              4566.39 mm (179.78 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

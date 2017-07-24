@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ToolDoorController.PcbDoc   11/1/2016  8:37:29 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ToolDoorController.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             301       PTH        1005.18mm (39.57inch)
+T2      0.9mm (35mil)                                             Round             86        PTH        420.97mm (16.57inch)
+T3      1mm (39mil)                                               Round             16        PTH        107.00mm (4.21inch)
+T4      3.25mm (128mil)                                           Round             4         NPTH       106.65mm (4.20inch)
+T5      4mm (157mil)                                              Round             4         NPTH       185.13mm (7.29inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              411
+
+Total Processing Time (hh:mm:ss) : 00:00:00

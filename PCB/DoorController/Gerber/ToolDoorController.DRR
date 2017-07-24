@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ToolDoorController.PcbDoc   4/16/2014  11:09:06 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ToolDoorController.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          29               130.26 mm (5.13 Inch)
+T2        0.5mm (19.685mil)        Round          1                0.00 mm (0.00 Inch)
+T3        0.762mm (30mil)          Round          6                108.12 mm (4.26 Inch)
+T4        0.85mm (33.465mil)       Round          3                10.16 mm (0.40 Inch)
+T5        0.9mm (35.433mil)        Round          6                12.70 mm (0.50 Inch)
+T6        1mm (39.37mil)           Round          6                10.43 mm (0.41 Inch)
+T7        1.1mm (43.307mil)        Round          14               67.38 mm (2.65 Inch)
+T8        1.2mm (47.244mil)        Round          10               96.58 mm (3.80 Inch)
+T9        3.45mm (135.827mil)      Round          2                9.52 mm (0.37 Inch)
+T10       4mm (157.48mil)          Round          4         NPTH   132.00 mm (5.20 Inch)
+T11       5mm (196.85mil)          Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            82               577.16 mm (22.72 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

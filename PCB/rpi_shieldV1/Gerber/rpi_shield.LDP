@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\vmware-host\Shared Folders\Altuim\HSBNE_ToolLocker\PCB\rpi_shieldV1\rpi_shield.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rpi_shield-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rpi_shield-slotholes.txt|DrillLayers=gtl,gbl

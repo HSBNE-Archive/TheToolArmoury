@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: rpi_shield.PcbDoc   11/1/2016  8:35:22 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : rpi_shield-RoundHoles.TXT
+ASCII SlotHoles File : rpi_shield-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             21        PTH        118.48mm (4.66inch)
+T2      0.8mm (31mil)                                             Slot              3         PTH        33.80mm (1.33inch)
+T3      0.9mm (35mil)                                             Round             40        PTH        134.62mm (5.30inch)
+T4      1mm (39mil)                                               Round             10        PTH        42.36mm (1.67inch)
+T5      2.75mm (108mil)                                           Round             4         NPTH       173.93mm (6.85inch)
+T6      3.25mm (128mil)                                           Round             2         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              80
+
+Total Processing Time (hh:mm:ss) : 00:00:01

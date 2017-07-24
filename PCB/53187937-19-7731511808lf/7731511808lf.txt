@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-23112012-048254";"";
+"REFERENCE";"7731511808LF";"";
+"TraceParts.PartTitle";"BergStik® Unshrouded Header, Through Hole, Single Row, 8 Positions 2.54  mm (0.1 in.), Right Angle";"";
+"TraceParts.InstanceId";"10-23112012-0482545S452WL06P79E10F08SUE6SS8";"";
+"DESIGN";"BergStik® Unshrouded Header, Through Hole, Single Row, 8 Positions 2.54  mm (0.1 in.), Right Angle";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FCI:/F_FCI/FCI.030/FCI.030.080/FCI.030.080.010/FCI.030.080.010.010/10-23112012-048254";"";
