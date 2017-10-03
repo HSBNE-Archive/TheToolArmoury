@@ -1,0 +1,4 @@
+twisted
+autobahn
+pyserial
+pylint
